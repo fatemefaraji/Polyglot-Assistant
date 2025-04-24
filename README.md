@@ -1,1 +1,2 @@
 # Polyglot-Assistant
+Description:Polyglot Assistant is a modular, AI-powered Telegram bot that delivers a seamless, multilingual user experience. Leveraging xAI’s Grok 3, it processes text, images, and audio inputs in over 60 languages, securely authenticates users via Google OAuth2, and integrates with Gmail, Google Calendar, and Google Sheets for productivity tasks. With advanced CAPTCHA verification and Redis caching, it ensures robust security and performance, making it an ideal solution for global, automated communication and task management.
